@@ -1,0 +1,10 @@
+name: aws-cloud-compliance
+title: AWS Cloud Compliance
+maintainer: Brittany Woods
+copyright: Brittany Woods
+copyright_email: brittanywoods2008@gmail.com
+license: Apache-2.0
+summary: An InSpec Compliance Profile
+version: 0.1.0
+supports:
+  platform: aws
